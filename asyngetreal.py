@@ -34,8 +34,8 @@ async def main(loop):
         count = 0
         for item in data:
             #try:
-            censusURL = censusLink + str(item['image_id']) #creating our request URLs
-            psarchivesURL = psarchivesLink + str(item['image_id']) + ".png"
+            censusURL = censusLink + str(abs(item['image_id'])) #creating our request URLs
+            psarchivesURL = psarchivesLink + str(abs(item['image_id'])) + ".png"
             censusImage = await fetchHead(session,censusURL)
             psarchivesImage = await fetchHead(session,psarchivesURL)
             if censusImage != 200 and psarchivesImage != 200:

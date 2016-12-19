@@ -1,0 +1,97 @@
+UPDATE items SET image_id=-86925 WHERE image_id=86925; #AF-4AE Cyclone
+UPDATE items SET image_id=-85883 WHERE image_id=85883; #Alarm Module
+UPDATE items SET image_id=-85883 WHERE image_id=85883; #Alarm Module
+UPDATE items SET image_id=-85883 WHERE image_id=85883; #Alarm Module
+UPDATE items SET image_id=-86334 WHERE image_id=86334; #Blast Wall
+UPDATE items SET image_id=-86334 WHERE image_id=86334; #Blast Wall
+UPDATE items SET image_id=-86334 WHERE image_id=86334; #Blast Wall
+UPDATE items SET image_id=-85827 WHERE image_id=85827; #Bunker
+UPDATE items SET image_id=-85827 WHERE image_id=85827; #Bunker
+UPDATE items SET image_id=-85827 WHERE image_id=85827; #Bunker
+UPDATE items SET image_id=-85937 WHERE image_id=85937; #Cortium Silo
+UPDATE items SET image_id=-85937 WHERE image_id=85937; #Cortium Silo
+UPDATE items SET image_id=-85937 WHERE image_id=85937; #Cortium Silo
+UPDATE items SET image_id=-86260 WHERE image_id=86260; #Deployable Decon Tool
+UPDATE items SET image_id=-86260 WHERE image_id=86260; #Deployable Decon Tool
+UPDATE items SET image_id=-86260 WHERE image_id=86260; #Deployable Decon Tool
+UPDATE items SET image_id=-86715 WHERE image_id=86715; #Elysium Spawn Tube
+UPDATE items SET image_id=-86715 WHERE image_id=86715; #Elysium Spawn Tube
+UPDATE items SET image_id=-86715 WHERE image_id=86715; #Elysium Spawn Tube
+UPDATE items SET image_id=-86343 WHERE image_id=86343; #Faction Banner
+UPDATE items SET image_id=-86340 WHERE image_id=86340; #Faction Banner
+UPDATE items SET image_id=-86337 WHERE image_id=86337; #Faction Banner
+UPDATE items SET image_id=-86709 WHERE image_id=86709; #Glaive IPC
+UPDATE items SET image_id=-86709 WHERE image_id=86709; #Glaive IPC
+UPDATE items SET image_id=-86709 WHERE image_id=86709; #Glaive IPC
+UPDATE items SET image_id=-86986 WHERE image_id=86986; #GR-22AE
+UPDATE items SET image_id=-86992 WHERE image_id=86992; #H-V45 AE
+UPDATE items SET image_id=-85833 WHERE image_id=85833; #HIVE
+UPDATE items SET image_id=-85833 WHERE image_id=85833; #HIVE
+UPDATE items SET image_id=-85833 WHERE image_id=85833; #HIVE
+UPDATE items SET image_id=-86643 WHERE image_id=86643; #Infantry Tower
+UPDATE items SET image_id=-86643 WHERE image_id=86643; #Infantry Tower
+UPDATE items SET image_id=-86643 WHERE image_id=86643; #Infantry Tower
+UPDATE items SET image_id=-86718 WHERE image_id=86718; #Light Air Terminal
+UPDATE items SET image_id=-86718 WHERE image_id=86718; #Light Air Terminal
+UPDATE items SET image_id=-86718 WHERE image_id=86718; #Light Air Terminal
+UPDATE items SET image_id=-86721 WHERE image_id=86721; #Light Vehicle Terminal
+UPDATE items SET image_id=-86721 WHERE image_id=86721; #Light Vehicle Terminal
+UPDATE items SET image_id=-86721 WHERE image_id=86721; #Light Vehicle Terminal
+UPDATE items SET image_id=-85949 WHERE image_id=85949; #NS-10B Burster
+UPDATE items SET image_id=-85949 WHERE image_id=85949; #NS-10B Burster
+UPDATE items SET image_id=-85949 WHERE image_id=85949; #NS-10B Burster
+UPDATE items SET image_id=-85949 WHERE image_id=85949; #NS-10B Burster
+UPDATE items SET image_id=-85949 WHERE image_id=85949; #NS-10B Burster
+UPDATE items SET image_id=-85949 WHERE image_id=85949; #NS-10B Burster
+UPDATE items SET image_id=-85952 WHERE image_id=85952; #NS-10G Burster
+UPDATE items SET image_id=-85952 WHERE image_id=85952; #NS-10G Burster
+UPDATE items SET image_id=-85952 WHERE image_id=85952; #NS-10G Burster
+UPDATE items SET image_id=-85952 WHERE image_id=85952; #NS-10G Burster
+UPDATE items SET image_id=-85952 WHERE image_id=85952; #NS-10G Burster
+UPDATE items SET image_id=-85952 WHERE image_id=85952; #NS-10G Burster
+UPDATE items SET image_id=-85912 WHERE image_id=85912; #NS-20B Gorgon
+UPDATE items SET image_id=-85912 WHERE image_id=85912; #NS-20B Gorgon
+UPDATE items SET image_id=-85912 WHERE image_id=85912; #NS-20B Gorgon
+UPDATE items SET image_id=-85912 WHERE image_id=85912; #NS-20B Gorgon
+UPDATE items SET image_id=-85912 WHERE image_id=85912; #NS-20B Gorgon
+UPDATE items SET image_id=-85912 WHERE image_id=85912; #NS-20B Gorgon
+UPDATE items SET image_id=-85915 WHERE image_id=85915; #NS-20G Gorgon
+UPDATE items SET image_id=-85915 WHERE image_id=85915; #NS-20G Gorgon
+UPDATE items SET image_id=-85915 WHERE image_id=85915; #NS-20G Gorgon
+UPDATE items SET image_id=-85915 WHERE image_id=85915; #NS-20G Gorgon
+UPDATE items SET image_id=-85915 WHERE image_id=85915; #NS-20G Gorgon
+UPDATE items SET image_id=-85915 WHERE image_id=85915; #NS-20G Gorgon
+UPDATE items SET image_id=-86862 WHERE image_id=86862; #NS-44L "Ravenous" Blackhand
+UPDATE items SET image_id=-86859 WHERE image_id=86859; #NS-61 "Ravenous" Emissary
+UPDATE items SET image_id=-86865 WHERE image_id=86865; #NS-R3 "Ravenous" Swarm
+UPDATE items SET image_id=-86712 WHERE image_id=86712; #Pillbox
+UPDATE items SET image_id=-86712 WHERE image_id=86712; #Pillbox
+UPDATE items SET image_id=-86712 WHERE image_id=86712; #Pillbox
+UPDATE items SET image_id=-85830 WHERE image_id=85830; #Rampart Wall
+UPDATE items SET image_id=-85830 WHERE image_id=85830; #Rampart Wall
+UPDATE items SET image_id=-85830 WHERE image_id=85830; #Rampart Wall
+UPDATE items SET image_id=-86649 WHERE image_id=86649; #Reinforcements Module
+UPDATE items SET image_id=-86649 WHERE image_id=86649; #Reinforcements Module
+UPDATE items SET image_id=-86649 WHERE image_id=86649; #Reinforcements Module
+UPDATE items SET image_id=-85883 WHERE image_id=85883; #Repair Module
+UPDATE items SET image_id=-85883 WHERE image_id=85883; #Repair Module
+UPDATE items SET image_id=-85883 WHERE image_id=85883; #Repair Module
+UPDATE items SET image_id=-85880 WHERE image_id=85880; #Skywall Shield Emitter
+UPDATE items SET image_id=-85880 WHERE image_id=85880; #Skywall Shield Emitter
+UPDATE items SET image_id=-85880 WHERE image_id=85880; #Skywall Shield Emitter
+UPDATE items SET image_id=-86931 WHERE image_id=86931; #SMG-46AE Armistice
+UPDATE items SET image_id=-85886 WHERE image_id=85886; #Structure Shield Module
+UPDATE items SET image_id=-85886 WHERE image_id=85886; #Structure Shield Module
+UPDATE items SET image_id=-85886 WHERE image_id=85886; #Structure Shield Module
+UPDATE items SET image_id=-86100 WHERE image_id=86100; #Sunderer Garage
+UPDATE items SET image_id=-86100 WHERE image_id=86100; #Sunderer Garage
+UPDATE items SET image_id=-86100 WHERE image_id=86100; #Sunderer Garage
+UPDATE items SET image_id=-85874 WHERE image_id=85874; #Turret AI Module
+UPDATE items SET image_id=-85874 WHERE image_id=85874; #Turret AI Module
+UPDATE items SET image_id=-85874 WHERE image_id=85874; #Turret AI Module
+UPDATE items SET image_id=-86738 WHERE image_id=86738; #Vehicle Gate
+UPDATE items SET image_id=-86738 WHERE image_id=86738; #Vehicle Gate
+UPDATE items SET image_id=-86738 WHERE image_id=86738; #Vehicle Gate
+UPDATE items SET image_id=-86646 WHERE image_id=86646; #Vehicle Ramp
+UPDATE items SET image_id=-86646 WHERE image_id=86646; #Vehicle Ramp
+UPDATE items SET image_id=-86646 WHERE image_id=86646; #Vehicle Ramp

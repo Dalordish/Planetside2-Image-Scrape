@@ -1,0 +1,51 @@
+AE Medical Applicator 1 : 84808
+WLT-Howler Mining Laser : 86664
+AE Nano-Armor Kit 5 : 84811
+AE Medical Applicator 4 : 84808
+AE Nano-Armor Kit 1 : 84811
+Xiphos Anti-Personnel Tower : 85836
+NSX Daimyo : 86961
+Orbital Strike Target Designator : 86743
+AE Nano-Armor Kit 4 : 84811
+Spear Anti-Vehicle Turret : 86544
+NS-AM7 AE/TR Archer : 86998
+ADMIN: Orbital Strike Gun : 86743
+Xiphos Anti-Personnel Phalanx Turret : 880
+Command Uplink Device : 85946
+Spear Anti-Vehicle Tower : 85842
+AE Nano-Armor Kit 3 : 84811
+NSX Masamune : 86952
+Aspis Anti-Aircraft Tower : 85839
+NS-TMC-01 "His Regards" : 83435
+Eridani SX5-AE : 86937
+WLT-Mandible Mining Laser : 84960
+AE Medical Applicator 6 : 84808
+NSX Tengu : 86958
+Parallax VX3-AE : 86940
+AE Nano-Armor Kit 6 : 84811
+RD-GG Recon Device 2 : 86194
+NSX Tanto : 86946
+RD-GG Recon Device 5 : 86194
+NSX Yumi : 86943
+RD-GG Recon Device 3 : 86194
+EM4-AE Longshot : 86928
+Vehicle Ammo Dispenser : 86706
+Lumifiber Rampart Wall : 86658
+NS-20 Gorgon : 85918
+AE Medical Applicator 2 : 84808
+AE Medical Applicator 3 : 84808
+AE Nano-Armor Kit 2 : 84811
+NSX Naginata : 86949
+AE Medical Applicator 5 : 84808
+Frag Grenade : 87006
+RD-GG Recon Device : 86194
+Quick-Det Flash Grenade : 87007
+NS-AM7 AE/NC Archer : 86995
+NSX Tomoe : 86955
+IPC Targeting Dart : 86724
+NS-AM7 VS/AE Archer : 87001
+RD-GG Recon Device 6 : 86194
+WLT-Yellowjacket Mining Laser : 84765
+TAR-AE : 86989
+RAMS-AE .50M : 86934
+RD-GG Recon Device 4 : 86194

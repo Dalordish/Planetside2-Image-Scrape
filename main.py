@@ -1,5 +1,6 @@
 from bs4 import BeautifulSoup
 import requests 
+import json
 
 def getImage(item_name,image_id): #Not a pure function, don't kill me pleaseeeeeeeeeeee it's just a shitty script aieeeeeeeee
     item_name = item_name.strip()
@@ -11,7 +12,9 @@ def getImage(item_name,image_id): #Not a pure function, don't kill me pleaseeeee
     #print(item_name)
     wiki_url = "http://planetside.wikia.com/wiki/"
     request_clean = item_name.replace("AE","")
+    request_clean = item_name.replace("-AE","")
     request_clean = request_clean.replace("GG","")
+    request_clean = request_clean.replace("-GG","")
     request_clean.replace("  "," ")
     request_clean = request_clean.strip()
     request_url = wiki_url + request_clean.replace(" ","_")
@@ -44,22 +47,29 @@ def makeSQL(item_name,image_id): #Here! this one's a pure function
     base_command = "UPDATE items SET"
     command = base_command + " image_id" + "=" + "-" + str(image_id) 
     command = command + " WHERE" + " image_id=" + str(image_id)
-    command = command + "; #" + str(item_name)
+    command = command + ";  # " + str(item_name)
     return command
 
-requestItems = {
-    'Aspis Anti-Aircraft Tower' : '85839',
-    'Rampart Wall' : '85830',
-    'Sunderer Garage' : '86100',
-    'AE Medical Applicator 1' : '84808',
-    'NS-15MP' : '9348',
-    'NS-15M AE' : '81565'
+with open('neededData.json','r') as data:
+    requestItems = json.loads(data.read())
 
-}
+print(requestItems)
+#requestItems = {
+#    'Aspis Anti-Aircraft Tower' : '85839',
+#    'Rampart Wall' : '85830',
+#    'Sunderer Garage' : '86100',
+#    'AE Medical Applicator 1' : '84808',
+#    'NS-15MP' : '9348',
+#    'NS-15M AE' : '81565'
+#
+#}
 
 failures = {}
-for item_name in requestItems.keys():
-    image_id = requestItems[item_name]
+for item in requestItems:
+    item_name = item['name']
+    image_id = item['image_id']
+    if item_name == None: #skip the nonetypes at the start
+        continue
     if getImage(item_name,image_id) == 1:
         print(makeSQL(item_name,image_id))
         with open("SQL_Commands.txt",'a') as text: # a mode is append
